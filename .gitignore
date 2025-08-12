@@ -1,0 +1,8 @@
+# Universal config file
+config.json
+
+# Saved run history for all tools
+saved_runs_*.json
+
+# Python cache
+
